@@ -12,4 +12,9 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 
 I am currently working on recreating those websites with higher technical standards as before, so stay tuned!
 
+## My favourite technologies
+- Python 🐍
+- JavaScript 🚀
+- C# & C++ for Desktop-Development
+
 In case you want to contact me, you may reach out to [hi@lukkoeh.dev](mailto:hi@lukkoeh.dev)
