@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to my GitHub Profile! 👋
 
-<!--
-**lukkoeh/lukkoeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochschule Baden-Württemberg in Mosbach, Germany working on a Bachelor's degree in Online media. I also work at the digital agency UEBERBIT GmbH in Mannheim, Germany as a Fullstack Developer. Feel free to take a look at my pubilc projects!
 
-Here are some ideas to get you started:
+## Other platforms I use 🌍
+- LinkedIn: https://www.linkedin.com/in/lukkoeh/
+- GitLab: https://gitlab.com/lukkoeh (very old projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My personal websites (mostly inactive)
+- https://lukas-koehler.com
+- https://lukkoeh.dev
+
+I am currently working on recreating those websites with higher technical standards as before, so stay tuned!
+
+In case you want to contact me, you may reach out to [hi@lukkoeh.dev](mailto:hi@lukkoeh.dev)
