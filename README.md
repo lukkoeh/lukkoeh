@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochschule Baden-Württemberg in Mosbach, Germany working on a Bachelor's degree in Online media. I also work at the digital agency UEBERBIT GmbH in Mannheim, Germany as a Fullstack Developer. Feel free to take a look at my pubilc projects!
+Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochschule Baden-Württemberg in Mosbach, Germany working on a Bachelor's degree in Online media. I also work at the digital agency UEBERBIT GmbH in Mannheim, Germany as a Fullstack Developer. Feel free to take a look at my public projects!
 
 ## Other platforms I use 🌍
 - LinkedIn: https://www.linkedin.com/in/lukkoeh/
