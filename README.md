@@ -6,8 +6,7 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 - LinkedIn: https://www.linkedin.com/in/lukkoeh/
 - GitLab: https://gitlab.com/lukkoeh (very old projects)
 
-## My personal websites (inactive)
-- https://lukas-koehler.com
+## My personal website
 - https://lukkoeh.dev
 
 I am currently working on recreating those websites with higher technical standards as before, so stay tuned!
