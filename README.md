@@ -15,6 +15,6 @@ I am currently working on recreating those websites with higher technical standa
 - Python 🐍
 - JavaScript 🚀
 - Java & C++ for Desktop-Development
-- PHP for TYPO3 Development
+- PHP for TYPO3 Development and also Laravel / CakePHP
 
-In case you want to contact me, you may reach out to [hi@lukkoeh.dev](mailto:hi@lukkoeh.dev)
+In case you want to contact me, you may reach out to [lukkoeh@posteo.de](mailto:lukkoeh@posteo.de)
