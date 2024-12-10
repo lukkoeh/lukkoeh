@@ -7,14 +7,14 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 - GitLab: https://gitlab.com/lukkoeh (very old projects)
 
 ## My personal website
-- https://lukkoeh.dev
+- https://lukkoeh.io
 
 I am currently working on recreating those websites with higher technical standards as before, so stay tuned!
 
 ## My favourite technologies
 - Python 🐍
-- JavaScript 🚀
+- Ollama
 - Java & C++ for Desktop-Development
-- PHP for TYPO3 Development and also Laravel / CakePHP
+- PHP for TYPO3 Development
 
-In case you want to contact me, you may reach out to [lukkoeh@posteo.de](mailto:lukkoeh@posteo.de)
+In case you want to contact me, you may reach out to [lukas@lukkoeh.io](mailto:lukas@lukkoeh.io)
