@@ -6,7 +6,7 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 - LinkedIn: https://www.linkedin.com/in/lukkoeh/
 
 ## My personal website
-- https://lukkoeh.io
+- https://lukaskoehler.com
 
 ## My favourite technologies
 - Python 🐍
@@ -17,4 +17,4 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 - pydantic-ai
 - streamlit
 
-In case you want to contact me, you may reach out to [lukas@lukkoeh.io](mailto:lukas@lukkoeh.io)
+In case you want to contact me, you may reach out to [lukas@lukkoeh.io](mailto:lukas@lukaskoehler.com)
