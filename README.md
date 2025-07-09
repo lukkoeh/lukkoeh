@@ -17,4 +17,4 @@ Hello, my name is Lukas Köhler and I am currently a student at the Duale Hochsc
 - pydantic-ai
 - streamlit
 
-In case you want to contact me, you may reach out to [lukas@lukaskoehler.com](mailto:lukas@lukkoeh.ai)
+In case you want to contact me, you may reach out to [lukas@lukkoeh.ai](mailto:lukas@lukkoeh.ai)
